@@ -55,9 +55,6 @@
 2025-01-17 16:46:00,ERROR,Server error: 500
 2025-01-17 16:48:00,ERROR,Server error: 500
 2025-01-17 16:55:00,ERROR,User logged out
-2025-01-17 17:01:00,ERROR,Page not found: 404
-2025-01-17 17:08:00,ERROR,User logged in
-2025-01-17 17:18:00,INFO,User logged in
 2025-01-17 17:22:00,INFO,Server error: 500
 2025-01-17 17:32:00,ERROR,Page not found: 404
 2025-01-17 17:41:00,INFO,User logged out
